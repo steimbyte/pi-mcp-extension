@@ -1,0 +1,18 @@
+{
+  "name": "pi-mcp-simple",
+  "version": "1.0.0",
+  "description": "Simple MCP extension for pi coding agent - no Zod conflicts",
+  "type": "module",
+  "main": "index.ts",
+  "keywords": [
+    "pi",
+    "mcp",
+    "model-context-protocol",
+    "coding-agent"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "github.com:steimer/pi-mcp-extension"
+  },
+  "license": "MIT"
+}
