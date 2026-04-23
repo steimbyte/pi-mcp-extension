@@ -1,5 +1,8 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/steimerbyte)
 
+> ⭐ If you find this useful, consider [supporting me on Ko-fi](https://ko-fi.com/steimerbyte)!
+
+
 # Pi MCP Extension
 
 Add MCP (Model Context Protocol) server support to [pi](https://github.com/badlogic/pi-mono) coding agent with minimal context overhead.
