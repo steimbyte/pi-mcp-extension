@@ -220,3 +220,9 @@ MIT
 - [pi coding agent](https://github.com/badlogic/pi-mono)
 - [MCP Protocol Spec](https://modelcontextprotocol.io)
 - [pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter) - Official adapter (has Zod issues)
+
+---
+
+## Hinweis zur KI-Unterstützung
+
+Bei der Entwicklung dieses Projekts wurden teilweise oder vollständig KI-gestützte Tools und Technologien eingesetzt.
